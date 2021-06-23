@@ -10,7 +10,7 @@
     "animate.css": "^3.7.2",
     "bootstrap": "^4.4.1",
     "express-favicon": "^2.0.1",
-    "highcharts": "^8.0.4",
+    "highcharts": "^9.0.0",
     "highcharts-react-official": "^3.0.0",
     "node-sass": "^4.13.1",
     "path": "^0.12.7",
